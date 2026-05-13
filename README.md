@@ -1,6 +1,6 @@
 # combat_voicephishing
 
-This repository contains the implementation code, preprocessing scripts, and experimental procedures accompanying the research paper:
+This repository contains the implementation code, Anonymized data, and experimental procedures accompanying the research paper:
 
 > **Proactive Detection of Voice Phishing Networks
 Using Call Log Analysis and Machine Learning**
